@@ -1,0 +1,92 @@
+{
+  "results": [
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "The retail disc of Tony Hawk&#039;s Pro Skater 5 only comes with the tutorial.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What amount of bits commonly equals one byte?",
+      "correct_answer": "8",
+      "incorrect_answers": ["1", "2", "64"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the star sign of someone born on Valentines day?",
+      "correct_answer": "Aquarius",
+      "incorrect_answers": ["Pisces", "Capricorn", "Scorpio"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Mathematics",
+      "question": "The decimal number 31 in hexadecimal would be what?",
+      "correct_answer": "1F",
+      "incorrect_answers": ["3D", "2E", "1B"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Ellie Goulding&#039;s earliest album was named?",
+      "correct_answer": "Lights",
+      "incorrect_answers": ["Halcyon", "Bright Lights", "Halcyon Days"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "How many manned moon landings have there been?",
+      "correct_answer": "6",
+      "incorrect_answers": ["1", "3", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+      "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
+      "incorrect_answers": [
+        "Christopher Nolan",
+        "David Fincher",
+        "Wes Anderson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the Half-Life franchise, what is the real name of the &quot;gravity gun&quot;?",
+      "correct_answer": "Zero-Point Energy Field Manipulator",
+      "incorrect_answers": [
+        "Universal Gravity Manipulation Device",
+        "Isaac Newton&#039;s Theory Disprover",
+        "Quantum Energy Displacement Modifier"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Vehicles",
+      "question": "What UK Train does NOT go over 125MPH?",
+      "correct_answer": "Sprinter",
+      "incorrect_answers": ["Class 43", "Javelin", "Pendolino"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which &quot;Call Of Duty: Zombies&quot; map introduced the &quot;Staffs Of The Ancients&quot;?",
+      "correct_answer": "Origins",
+      "incorrect_answers": ["Shangri-La", "Revelations", "Nuketown"]
+    }
+  ]
+}
